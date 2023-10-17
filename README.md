@@ -1,0 +1,2 @@
+# privacy
+Play store privacy
